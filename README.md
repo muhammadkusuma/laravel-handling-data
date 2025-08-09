@@ -24,7 +24,7 @@ A high-performance Laravel application designed to efficiently handle 100,000+ r
 ### 1. Clone the Repository
 
 ```bash
-git clone muhammadkusuma/laravel-handling-data.git
+gh repo clone muhammadkusuma/laravel-handling-data
 cd laravel-handling-data
 composer install
 ```
